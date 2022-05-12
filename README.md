@@ -1,6 +1,6 @@
 # Django API Restful framework
 
-the aplication consists in a simple contacts register CRUD
+the application consists in a simple contacts register CRUD
 
 # Visit my API
 
