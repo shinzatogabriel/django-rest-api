@@ -1,20 +1,20 @@
-# Api Django Restful framework
+# Django API Restful framework
 
-a aplicação consiste em um pequeno CRUD de cadastro de contatos
+the aplication consists in a simple contacts register CRUD
 
-# Visite minha API
+# Visit my API
 
 - https://djangorf-clientes.herokuapp.com/
     - user: tester
     - senha: teste123456
-- clique no link ao lado de "clientes"
+- click the link next to "clientes"
 
-# Aprendizados
+# Learnings
 
-- desenvolvimento de uma API com Django REST
-- modelos, serializers e views
-- arquitetura de projetos Django Rest API
-- Integração do Django Admin à API
-- validação os campos de sua API, utilizando Django Rest Framework
-- filtros, buscas e ordenação em seus endpoints
-- API no ar realizando o deploy
+- API development with Django REST framework
+- models, serilizers and views
+- Django Rest API project architecture
+- Django Admin integration to the API
+- data validation
+- filters, queries and endpoints ordenation
+- API in the server using deploy
